@@ -1,31 +1,21 @@
-@cheeaun's life
+@kyleshrader's life
 ===============
-
-- 20/06/1985 Born
-- 1991 Kindergarten
-- 1992-1997 Primary school - SKSJ
-- 1998-2000 Secondary school - SMKTI
-- ~2000 First computer
-- 2001-2002 Secondary school - SMKDOB
-- 04/11/2002 Phoenity is born
-- 2003-2004 Secondary school (Form 6) - SMKDOB
-- 01/2005-03/2005 First (non-technical) job
-- 08/2005-08/2008 University - UTAR
-- 11/2005 Dead hard drive of first computer
-- 07/2006-05/2007 CSS Web Designer - MindValley
-- 18/12/2006 [First tweet](https://twitter.com/cheeaun/status/1298723)
-- 04/2007 First laptop (HP)
-- 06/2008-07/2009 Web Developer - ZoeCity
-- 24/08/2009-26/06/2013 Front-End Developer - Wego
-- 07/2010 Second laptop (Dell)
-- 04/03/2012 [HackerWeb featured](https://news.ycombinator.com/item?id=3662709) on Hacker News
-- 01/07/2013-~ Software Engineer - Viki
-- 02/12/2013 [Life featured](https://news.ycombinator.com/item?id=6833565) on Hacker News
-- 24/12/2013 Third laptop/ultrabook (Dell)
-- 10/01/2014-09/05/2014 First trip to US (SF and Portland)
-- 11/09/2014-21/09/2014 First trip to Germany (Berlin)
-- 28/10/2014-8/11/2014 First trip to Australia (Sydney)
-- 23/04/2015-01/05/2015 First trip to New Zealand (Auckland)
-- 09/05/2015-16/05/2015 Second trip to Germany (Düsseldorf and Cologne)
-- 27/06/2015-05/07/2015 First trip to France (Paris)
-- 30/07/2015 Dad passed away
+Education
+- 13/08/1990 Born
+- 1995 Kindergarten
+- 1996-2001 Elementary school
+- 2000-2002 Middle school
+- 2003-2008 High school
+- 2008-2012 University
+Work
+- 2013-2014 SDET I @ Zillow
+- 2014-2015 SDET II @ Wetpaint
+- 2015-2017 SDET III @ Costco Travel
+Vacation
+- 2005 Trip to Disney World
+- 04/06/2014 Trip to Yellowstone
+- 29/12/2015 Honemoon in Vegas and Hollywood
+Life Events
+- 20/07/2015 Asked Patt out
+- 21/02/2015 Proposed to Patt
+- 22/08/2015 Married Patt
